@@ -9,14 +9,14 @@
   }
       body{
       font-family: 'arial';
-      background-color: #0e031c;
+      background-color: #99261e;
       color:rgba(255, 0, 17, 0.886);
       margin:10px auto;
       text-align: center;
   }
   
   .menu{
-  color:aquamarine;
+  color:rgb(127, 140, 255);
   text-decoration: 0;
   font-size: 24px;
   margin: 5px;
@@ -30,7 +30,7 @@
   .box{
       width:300px;
       height:200px;
-      background-color: #b2df85;
+      background-color: #85dfd8;
       border-radius: 10px;
       margin:2%;
   }
@@ -39,7 +39,7 @@
       padding: 2% 0;
   }
   #a{
-      background-color:rgb(113, 113, 167);
+      background-color:rgb(231, 231, 197);
       margin:0;
       border-radius: 10px;
       display:flex;
@@ -53,7 +53,7 @@
       margin:0;
   }
   #tituloPrincipal{
-      color:rgb(21, 39, 67);
+      color:rgb(54, 21, 67);
       font-size: 40px;
       font-family:'Times New Roman';
       text-align: center;
@@ -61,11 +61,11 @@
   
   ul{
       font-size: 28px;
-      color: black;
+      color: rgb(230, 41, 41);
   }
   ol{
       font-size: 28px;
-      color: black;
+      color: rgb(0, 0, 0);
   
   }
   p{
@@ -81,7 +81,7 @@
   
   .footer{
       background-color: #000000;
-      color:azure;
+      color:rgb(37, 209, 209);
      
   
   }
